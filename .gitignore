@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/BookStoreProject/bin/Debug/net5.0
+/BookStoreProject/.vs/BookStoreProject
+/BookStoreProject/obj
